@@ -1,0 +1,4 @@
+l=('charitha','13','mpcsb')
+m=('chari','14','mpcsb')
+n=l+m
+print(n)
